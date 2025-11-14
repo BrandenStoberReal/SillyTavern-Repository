@@ -1,0 +1,6 @@
+[submodule "Extension-SillyTavern-Outfits"]
+	path = Extension-SillyTavern-Outfits
+	url = https://github.com/BrandenStoberReal/Extension-SillyTavern-Outfits.git
+[submodule "SillyTavern-ValueTracker-Plugin"]
+	path = SillyTavern-ValueTracker-Plugin
+	url = https://github.com/BrandenStoberReal/SillyTavern-ValueTracker-Plugin.git
