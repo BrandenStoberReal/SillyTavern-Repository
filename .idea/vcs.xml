@@ -4,6 +4,7 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Extension-SillyTavern-Outfits" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/SillyTavern-Utils" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SillyTavern-Utils/wiki" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/SillyTavern-ValueTracker-Plugin" vcs="Git" />
   </component>
 </project>
