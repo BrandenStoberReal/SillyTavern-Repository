@@ -4,3 +4,6 @@
 [submodule "SillyTavern-ValueTracker-Plugin"]
 	path = SillyTavern-ValueTracker-Plugin
 	url = https://github.com/BrandenStoberReal/SillyTavern-ValueTracker-Plugin.git
+[submodule "SillyTavern-Utils"]
+	path = SillyTavern-Utils
+	url = https://github.com/BrandenStoberReal/SillyTavern-Utils.git
