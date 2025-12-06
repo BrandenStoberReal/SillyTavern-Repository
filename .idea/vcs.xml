@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Extension-SillyTavern-Outfits" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/SillyTavern-Utils" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/SillyTavern-Utils/wiki" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/SillyTavern-ValueTracker-Plugin" vcs="Git" />
   </component>
 </project>
